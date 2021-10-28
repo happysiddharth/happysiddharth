@@ -26,8 +26,6 @@
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=happysiddharth&theme=chartreuse-dark)
-
 ![Amol's GitHub statistics](https://github-readme-stats.vercel.app/api?username=happysiddharth&show_icons=true&theme=chartreuse-dark)
 
 
